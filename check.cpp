@@ -4,7 +4,8 @@
 #include <string>
 
 using namespace std;
-//te
+//tests
+//test
 int main()
 {
 	ifstream infile;
