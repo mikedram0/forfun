@@ -11,8 +11,8 @@ int main()
 	ifstream infile;
 	infile.open("outc.txt",ios::in);
 
-	string line;
-	int stepmax = 0;
+	//string line;
+	//int stepmax = 0;
 
 	while(getline(infile,line)) {
 
