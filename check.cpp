@@ -4,7 +4,7 @@
 #include <string>
 
 using namespace std;
-//test
+//te
 int main()
 {
 	ifstream infile;
