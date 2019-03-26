@@ -15,7 +15,7 @@ int main()
 
 	while(getline(infile,line)) {
 
-			//string line;
+			//string lifffne;
 		int i = 0;
 
 
